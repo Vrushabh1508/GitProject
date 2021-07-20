@@ -2,7 +2,7 @@ package java_package;
 import java.util.Scanner;
 
 
-public class Avg_Sum {
+public class AvgSum {
 
 	public static void main(String[] args) {
 		int a,b;
