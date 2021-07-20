@@ -3,7 +3,7 @@
 package java_package;
 import java.util.Scanner;
 
-public class Area_Circle {
+public class AreaCircle {
 
 	public static void main(String[] args) {
 		int radius;
