@@ -2,7 +2,7 @@ package java_package;
 
 import java.util.Scanner;
 
-public class Cmpd_Int {
+public class CmpdInt {
 
 	public static void main(String[] args) {
 
